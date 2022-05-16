@@ -16,3 +16,7 @@ Motivation will be to check a deep value portfolio from the start of the pandemi
   - explore interactive graphs / JS output
   - automated reporting
   - refinitiv API
+
+## Log
+
+2022-05-16 - The first problem is that holoviz wants you to install a custom conda-based environment in order to use the packages. I have a "no conda" rule. Trying to install underlying packages only.
