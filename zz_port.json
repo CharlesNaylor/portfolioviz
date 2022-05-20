@@ -1,0 +1,6 @@
+{
+	"name": "zz_port",
+	"starting_nav": "100",
+	"starting_date": "2020-04-30",
+	"tickers": ["IBM", "CSCO", "QSR", "LMT", "PG", "MYL", "TXN", "T", "PEP", "JCI", "RCKY", "GPX", "MLR", "ATAX", "SANM", "DHI", "XRX", "DRH"]
+}
